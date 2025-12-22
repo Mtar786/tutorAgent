@@ -1,0 +1,19 @@
+# Bytecode and cache directories
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Logs and data
+*.log
+.coverage
+
+# OS files
+.DS_Store

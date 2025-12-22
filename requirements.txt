@@ -1,0 +1,4 @@
+click>=8.0
+pandas>=1.5
+numpy>=1.22
+scikit-learn>=1.2
