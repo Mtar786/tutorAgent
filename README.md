@@ -1,6 +1,5 @@
 # Tutor Agent
 
-
 The **Tutor Agent** project is an AI‑assisted study companion that reads
 your class notes or textbook and quizzes you with dynamic difficulty
 adjustment.  It uses vector embeddings to retrieve relevant content
